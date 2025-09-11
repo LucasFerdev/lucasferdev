@@ -11,23 +11,6 @@ Atuo como desenvolvedor com mentalidade executiva, buscando unir **liderança, p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fernando-silva-6a8903368)
 
 ---
-
-## 💼 Áreas de Atuação
-- 🖥️ **Back-end corporativo** → Java e integrações de sistemas  
-- 🎨 **Front-end responsivo** → Interfaces modernas e intuitivas  
-- 🗄️ **Bancos de dados** → SQL & NoSQL aplicados a negócios  
-- 📊 **Liderança técnica** → Clean Code, Agile e visão de produto  
-
----
-
-## 🚀 Projetos em Destaque
-- **SwiftPro** → Plataforma de gamificação para varejo, focada em engajamento e performance de equipes.  
-- **FINZIA** → Fintech com IA para gestão financeira e prevenção de endividamento.  
-- **GreenHash** → Monitoramento global do impacto ambiental da mineração de criptomoedas.  
-- **Keevio** → Aplicativo que transforma memórias em alarmes personalizados.  
-
----
-
 ## 💻 Tecnologias & Ferramentas
 
 ### Back-end
@@ -52,6 +35,23 @@ Atuo como desenvolvedor com mentalidade executiva, buscando unir **liderança, p
 ![Trello](https://img.shields.io/badge/Trello-000000?logo=trello&logoColor=0A66C2)
 
 ---
+## 💼 Áreas de Atuação
+- 🖥️ **Back-end corporativo** → Java e integrações de sistemas  
+- 🎨 **Front-end responsivo** → Interfaces modernas e intuitivas  
+- 🗄️ **Bancos de dados** → SQL & NoSQL aplicados a negócios  
+- 📊 **Liderança técnica** → Clean Code, Agile e visão de produto  
+
+---
+
+## 🚀 Projetos em Destaque
+- **SwiftPro** → Plataforma de gamificação para varejo, focada em engajamento e performance de equipes.  
+- **FINZIA** → Fintech com IA para gestão financeira e prevenção de endividamento.  
+- **GreenHash** → Monitoramento global do impacto ambiental da mineração de criptomoedas.  
+- **Keevio** → Aplicativo que transforma memórias em alarmes personalizados.  
+
+---
+
+
 
 ## 📊 Painel de Resultados
 
