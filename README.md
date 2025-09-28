@@ -1,83 +1,98 @@
-# 👋 Olá, seja bem-vindo ao meu perfil!
+<!-- ====== Seção 1: Cabeçalho + Bio curta ====== -->
 
-Sou **Lucas Fernando**, estudante de **Análise e Desenvolvimento de Sistemas**.  
-Minha missão é **transformar código em soluções estratégicas**, que geram impacto real para pessoas e negócios.  
-Atuo como desenvolvedor com mentalidade executiva, buscando unir **liderança, produto e tecnologia**. 🚀
+<h1 align="center">Bem Vindo ao meu Repositório, Eu sou Lucas!</h1>
 
----
+<p align="center">
+  <img alt="lang en" src="https://img.shields.io/badge/lang-en-inactive?style=flat-square&labelColor=2b3137&color=555">
+  <img alt="lang pt-br" src="https://img.shields.io/badge/lang-pt--br-brightgreen?style=flat-square&labelColor=2b3137">
+</p>
 
-## 🌐 Conecte-se comigo
-[![Email](https://img.shields.io/badge/Email-0A66C2?logo=gmail&logoColor=white)](mailto:lucasferdev01@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fernando-silva-6a8903368)
+<!-- ====== FOTO DE PERFIL ESTILO ILUSTRAÇÃO ====== -->
+<img align="right" width="320" alt="Lucas Silva coding illustration" src="https://github.com/user-attachments/assets/dc0c8bc9-108c-4760-9c58-eb520aa075e6" />
 
----
-## 💻 Tecnologias & Ferramentas
-
-### Back-end
-![Java](https://img.shields.io/badge/Java-000000?logo=openjdk&logoColor=0A66C2)
-
-### Front-end
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=0A66C2)
-![HTML5](https://img.shields.io/badge/HTML5-000000?logo=html5&logoColor=0A66C2)
-![CSS3](https://img.shields.io/badge/CSS3-000000?logo=css3&logoColor=0A66C2)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?logo=bootstrap&logoColor=0A66C2)
-
-### Bancos de Dados
-![MySQL](https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=0A66C2)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?logo=postgresql&logoColor=0A66C2)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?logo=mongodb&logoColor=0A66C2)
-![SQLite](https://img.shields.io/badge/SQLite-000000?logo=sqlite&logoColor=0A66C2)
-
-### Ferramentas
-![Figma](https://img.shields.io/badge/Figma-000000?logo=figma&logoColor=0A66C2)
-![Git](https://img.shields.io/badge/Git-000000?logo=git&logoColor=0A66C2)
-![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=0A66C2)
-![Trello](https://img.shields.io/badge/Trello-000000?logo=trello&logoColor=0A66C2)
-
----
-## 💼 Áreas de Atuação
-- 🖥️ **Back-end corporativo** → Java e integrações de sistemas  
-- 🎨 **Front-end responsivo** → Interfaces modernas e intuitivas  
-- 🗄️ **Bancos de dados** → SQL & NoSQL aplicados a negócios  
-- 📊 **Liderança técnica** → Clean Code, Agile e visão de produto  
+Desenvolvedor **Full Stack** em formação, apaixonado por tecnologia, aprendizado contínuo e criação de soluções com propósito.  
+Tenho focado meus estudos nas 8 áreas do meu interesse: **Front end**, **Back end**, **Mobile**, **Cloud**, **Database**, **UX/UI**, **Infrastructure**, **CI/CD DevOps**.  
+Meu objetivo é transformar cada conhecimento adquirido em projetos práticos e aplicáveis.
 
 ---
 
-## 🚀 Projetos em Destaque
-- **SwiftPro** → Plataforma de gamificação para varejo, focada em engajamento e performance de equipes.  
-- **FINZIA** → Fintech com IA para gestão financeira e prevenção de endividamento.  
-- **GreenHash** → Monitoramento global do impacto ambiental da mineração de criptomoedas.  
-- **Keevio** → Aplicativo que transforma memórias em alarmes personalizados.  
+### Sobre mim
+
+- 🧭 Migrando da área de **E-commerce** e **Empreendedorismo** para a **Tecnologia**  
+- 📚 Atualmente estudando **Java**, **Python** e **Banco de Dados** na **FIAP** com o curso de **Análise e Desenvolvimento de Sistemas** e reforçando os estudos com **Alura**  
+- 🎯 Interesses: MBA em **Arquitetura de Soluções**  
+- 🛠️ Atualmente construindo: **FINZIA (fintech)**  
+- ☕ Curto um bom café, livros e resolver problemas reais com códigos
 
 ---
 
+## 🌟 Estatísticas do GitHub 🌟
 
-
-## 📊 Painel de Resultados
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFerdev&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=0A66C2&text_color=0A66C2&bg_color=000000" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasFerdev&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=0A66C2&text_color=0A66C2&icon_color=0A66C2&bg_color=000000" />
-</a>
-
-<a href="https://git.io/streak-stats">
-  <img height="165" src="https://streak-stats.demolab.com?user=LucasFerdev&theme=dark&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&background=000000&sideNums=0A66C2&sideLabels=0A66C2&dates=0A66C2" />
-</a>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFerdeV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFerdeV&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🐍 Engajamento em Código
-![Snake animation](https://github.com/LucasFerdev/LucasFerdev/blob/output/snake.svg)
+## 📚 Meus estudos
+
+Organizo meus aprendizados em repositórios de prática e desafios de programação.  
+Aqui você encontrará projetos de **front-end**, **back-end** e **full stack**, além de resumos e exercícios de cursos.  
+
+> ✨ Acredito que aprender construindo é o melhor caminho! ✨
 
 ---
 
-## 🌍 Visão de Futuro
-Acredito que **tecnologia é a ponte entre ideias e impacto real**.  
-Meu objetivo é atuar como **líder em inovação**, ajudando empresas a crescer com **estratégia, dados e código**.  
+## 🚀 Tecnologias e linguagens
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" />
+</p>
 
 ---
 
-> _“Código é apenas o começo. A verdadeira liderança está em transformar ideias em impacto.”_
+## 🛠️ Estruturas e bibliotecas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs" />
+</p>
+
+---
+
+## 🗄️ Ferramentas de banco de dados e versionamento
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## ✉️ Vamos nos conectar?
+
+Atualmente sou estudante de **Analise e Desenvolvimento de Software** e venho transformando ideias em aplicações funcionais.  
+Estou me aprofundando em **Java** e **Banco de Dados**.  
+Também exploro UI e UX utilizando o **Figma**.
+
+
+<p>
+    <a href="mailto:lucasferdev01@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/lucas-fernando-silva-6a8903368/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 📈 Contribuições
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasFerdeV&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de contribuições de LucasFerdeV"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LucasFerdeV&theme=tokyonight&hide_border=true" alt="GitHub Streak de LucasFerdeV" />
+</p>
