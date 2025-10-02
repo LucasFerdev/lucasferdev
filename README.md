@@ -67,8 +67,6 @@ Meu objetivo é transformar cada conhecimento adquirido em projetos práticos e 
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,oracle" alt="icons tecnologias"/>
 </p>
 
-
-
 ---
 
 ## ✉️ Vamos nos conectar?
@@ -96,3 +94,11 @@ Atualmente sou estudante de **Analise e Desenvolvimento de Software** e venho tr
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=LucasFerdeV&theme=tokyonight&hide_border=true" alt="GitHub Streak de LucasFerdeV" />
 </p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasferdev/lucasferdev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasferdev/lucasferdev/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lucasferdev/lucasferdev/output/github-snake.svg" />
+</picture>
