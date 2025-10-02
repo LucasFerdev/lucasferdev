@@ -2,9 +2,10 @@
 
 <h1 align="center">Bem Vindo ao meu Repositório, Eu sou Lucas!</h1>
 
-<p align="center">
-  <img alt="lang en" src="https://img.shields.io/badge/lang-en-inactive?style=flat-square&labelColor=2b3137&color=555">
-  <img alt="lang pt-br" src="https://img.shields.io/badge/lang-pt--br-brightgreen?style=flat-square&labelColor=2b3137">
+<p>
+  <img alt="Português Nativo" src="https://img.shields.io/badge/Português-Nativo-brightgreen?style=flat-square&labelColor=2b3137">
+  <img alt="Inglês Intermediário" src="https://img.shields.io/badge/Inglês-Intermediário-blue?style=flat-square&labelColor=2b3137">
+  <img alt="Alemão Básico" src="https://img.shields.io/badge/Alemão-Básico-lightgrey?style=flat-square&labelColor=2b3137">
 </p>
 
 <!-- ====== FOTO DE PERFIL ESTILO ILUSTRAÇÃO ====== -->
@@ -37,24 +38,24 @@ Meu objetivo é transformar cada conhecimento adquirido em projetos práticos e 
 
 ## 📚 Meus estudos
 
-Organizo meus aprendizados em repositórios de prática e desafios de programação.  
-Aqui você encontrará projetos de **front-end**, **back-end** e **full stack**, além de resumos e exercícios de cursos.  
+<p>Aqui compartilho minha jornada de aprendizado em desenvolvimento, organizada em repositórios de estudos e desafios. </p> 
+<p>Você encontrará meus projetos, além de resumos e exercícios de cursos.</p>
 
-> ✨ Acredito que aprender construindo é o melhor caminho! ✨
+> ✨ A criatividade move a tecnologia e transforma ideias em soluções. ✨
 
 ---
 
 ## 🚀 Tecnologias e linguagens
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" />
+<p align="">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
 </p>
 
 ---
 
 ## 🛠️ Estruturas e bibliotecas
 
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=react,nodejs" />
 </p>
 
@@ -62,18 +63,17 @@ Aqui você encontrará projetos de **front-end**, **back-end** e **full stack**,
 
 ## 🗄️ Ferramentas de banco de dados e versionamento
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,oracle" alt="icons tecnologias"/>
 </p>
+
+
 
 ---
 
 ## ✉️ Vamos nos conectar?
 
 Atualmente sou estudante de **Analise e Desenvolvimento de Software** e venho transformando ideias em aplicações funcionais.  
-Estou me aprofundando em **Java** e **Banco de Dados**.  
-Também exploro UI e UX utilizando o **Figma**.
-
 
 <p>
     <a href="mailto:lucasferdev01@gmail.com">
