@@ -8,8 +8,6 @@
   <img alt="Alemão Básico" src="https://img.shields.io/badge/Alemão-Básico-lightgrey?style=flat-square&labelColor=2b3137">
 </p>
 
-<!-- ====== FOTO DE PERFIL ESTILO ILUSTRAÇÃO ====== -->
-<img align="right" width="320" alt="Lucas Silva coding illustration" src="https://github.com/user-attachments/assets/dc0c8bc9-108c-4760-9c58-eb520aa075e6" />
 
 Desenvolvedor **Full Stack** em formação, apaixonado por tecnologia, aprendizado contínuo e criação de soluções com propósito.  
 Tenho focado meus estudos nas 8 áreas do meu interesse: **Front end**, **Back end**, **Mobile**, **Cloud**, **Database**, **UX/UI**, **Infrastructure**, **CI/CD DevOps**.  
