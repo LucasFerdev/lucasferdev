@@ -18,13 +18,8 @@ Meu objetivo é transformar cada conhecimento adquirido em projetos práticos e 
 
 ## 🌟 Estatísticas do GitHub 🌟
 
-<div align="center">
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasFerdev&theme=tokyonight" alt="Top Langs" />
-
-</div>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=LucasFerdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFerdev&layout=compact&langs_count=7&theme=tokyonight)
 
 ---
 
