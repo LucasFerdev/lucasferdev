@@ -1,85 +1,54 @@
-<h1 align="center">Bem Vindo ao meu Repositório, Eu sou Lucas!</h1>
+# 👋 Lucas Fernando
 
-Desenvolvedor **Full Stack** em formação, apaixonado por tecnologia, aprendizado contínuo e criação de soluções com propósito.  
-Tenho focado meus estudos nas 8 áreas do meu interesse: **Front end**, **Back end**, **Mobile**, **Cloud**, **Database**, **UX/UI**, **Infrastructure**, **CI/CD DevOps**.  
-Meu objetivo é transformar cada conhecimento adquirido em projetos práticos e aplicáveis.
+### Desenvolvedor Full Stack Júnior | Backend Java & APIs REST
 
----
+Sou Desenvolvedor Full Stack Júnior com foco em **Back-end**, atuando principalmente com **Java e Spring Boot**, criando **APIs REST**, integrações e soluções orientadas a regras de negócio.
 
-### Sobre mim
+Tenho experiência prática no desenvolvimento de sistemas completos, desde a modelagem do banco de dados até a integração com o front-end, sempre buscando **código limpo, boas práticas, organização de camadas e escalabilidade**.
 
-- 🧭 Migrando da área de **E-commerce** e **Empreendedorismo** para a **Tecnologia**
-- 📚 Atualmente estudando **Java**, **Python** e **Banco de Dados** na **FIAP** com o curso de **Análise e Desenvolvimento de Sistemas** e reforçando os estudos com **Alura**
-- 🎯 Interesses: MBA em **Arquitetura de Soluções**
-- 🛠️ Atualmente construindo: **FINZIA (fintech)**
-- ☕ Curto um bom café, livros e resolver problemas reais com códigos
+Aqui no GitHub compartilho projetos que simulam **cenários reais de mercado**, desafios técnicos e aplicações completas, demonstrando minha evolução contínua como desenvolvedor.
 
 ---
 
-## 🌟 Estatísticas do GitHub 🌟
+## 🌐 Onde me encontrar
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LucasFerdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFerdev&layout=compact&langs_count=7&theme=tokyonight)
-
----
-
-## 📚 Meus estudos
-
-<p>Aqui compartilho minha jornada de aprendizado em desenvolvimento, organizada em repositórios de estudos e desafios. </p> 
-<p>Você encontrará meus projetos, além de resumos e exercícios de cursos.</p>
-
-> ✨ A criatividade move a tecnologia e transforma ideias em soluções. ✨
+- 💼 LinkedIn: https://www.linkedin.com/in/lucas-fernando-silva-6a8903368/
+- ✉️ Email: lucasferdev@gmail.com
 
 ---
 
-## 🚀 Tecnologias e linguagens
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
-</div>
-
----
-
-## 🛠️ Estruturas e bibliotecas
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs" />
-</div>
-
----
-
-## 🗄️ Ferramentas de banco de dados e versionamento
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,oracle" alt="icons tecnologias"/>
-</div>
-
----
-
-## ✉️ Vamos nos conectar?
-
-Atualmente sou estudante de **Analise e Desenvolvimento de Software** e venho transformando ideias em aplicações funcionais.  
+## 📊 Estatísticas
 
 <p align="center">
-    <a href="mailto:lucasferdev01@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://www.linkedin.com/in/lucas-fernando-silva-6a8903368/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=lucasferdev&show_icons=true&theme=tokyonight&hide_border=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferdev&layout=compact&theme=tokyonight&hide_border=true"
+    height="160"
+  />
 </p>
 
 ---
 
-## 📈 Contribuições
+## 🚀 Linguagens, Frameworks e Ferramentas
 
-<div align="center">
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasFerdev&theme=tokyo-night&hide_border=true&area=true)
-
-<br/>
-
-![Streak Stats](https://streak-stats.demolab.com?user=LucasFerdev&theme=tokyonight&hide_border=true)
-
-</div>
