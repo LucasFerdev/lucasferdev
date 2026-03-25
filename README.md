@@ -1,12 +1,12 @@
 # 👋 Lucas Fernando
 
-### Desenvolvedor Full Stack Júnior | Backend Java & APIs REST
+### Desenvolvedor Full Stack | Java | React | Kotlin | APIs REST
 
-Sou Desenvolvedor Full Stack Júnior com foco em **Back-end**, atuando principalmente com **Java e Spring Boot**, criando **APIs REST**, integrações e soluções orientadas a regras de negócio.
+Desenvolvedor Full Stack atuando no desenvolvimento de aplicações e integração de sistemas, com experiência em aplicações web utilizando React e aplicações mobile com Kotlin.
 
-Tenho experiência prática no desenvolvimento de sistemas completos, desde a modelagem do banco de dados até a integração com o front-end, sempre buscando **código limpo, boas práticas, organização de camadas e escalabilidade**.
+Experiência na construção de aplicações com banco de dados, desenvolvimento web e mobile, aplicando boas práticas de programação, organização de código e versionamento com Git.
 
-Aqui no GitHub compartilho projetos que simulam **cenários reais de mercado**, desafios técnicos e aplicações completas, demonstrando minha evolução contínua como desenvolvedor.
+Neste GitHub, compartilho projetos que simulam cenários reais, demonstrando minha evolução contínua e interesse em desenvolvimento de software.
 
 ---
 
