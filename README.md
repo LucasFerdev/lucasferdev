@@ -1,4 +1,4 @@
-# 👋 Lucas Fernando
+# 👋 Olá, sou Lucas.
 
 ### Desenvolvedor Full Stack | Java | React | Kotlin | APIs REST
 
@@ -54,3 +54,8 @@ Neste GitHub, compartilho projetos que simulam cenários reais, demonstrando min
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucasferdev&color=blue&style=for-the-badge" />
+</p>
